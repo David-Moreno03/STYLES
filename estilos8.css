@@ -1,0 +1,11 @@
+.pregunta {
+    background-color:#b1a5a5;
+    border-width:1px;
+    border-style:solid;
+    border-color:#aeb103;
+}
+.respuesta {
+    border-width:1px;
+    border-style:dashed;
+    border-color:#aeb103;
+}
