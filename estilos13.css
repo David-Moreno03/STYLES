@@ -1,3 +1,4 @@
-cuerpo {
-  imagen de fondo:url(fondo.jpg);
+body {
+  background-position: lop right;
+  background-color: blue;
 }
