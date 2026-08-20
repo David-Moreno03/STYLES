@@ -1,0 +1,10 @@
+#caja1,#caja2,#caja3 {
+  background-color:rgb(184, 197, 3);
+  font-family:verdana;
+  font-size:1.6rem;
+}
+#caja2 {
+  position:relative;
+  left:20px;
+  top:10px;
+}
