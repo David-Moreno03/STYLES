@@ -1,0 +1,33 @@
+#contenedor1{
+  pantalla: flexible;
+  color de fondo: #000;  
+  altura: 300px;
+  color:blanco;
+  tamaño de fuente: 2rem;
+}
+
+#elemento1 {  
+  alinear-auto: automático;
+  color de fondo: #0078A6;
+}
+#elemento2 {
+  alinear-sí mismo: flex-start;
+  color de fondo: #0084B6;
+}
+#elemento3 {
+  alinear-sí mismo: flex-end;
+  color de fondo: #008CC1;
+}
+
+#elemento4 {  
+  alinear-auto: centro;
+  color de fondo: #0078A6;
+}
+#elemento5 {
+  alinear-auto: estirar;
+  color de fondo: #0084B6;
+}
+#elemento6 {
+  alinear-auto: línea base;
+  color de fondo: #008CC1;
+}
