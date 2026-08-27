@@ -1,0 +1,14 @@
+#contenedor1{
+  pantalla: flexible;
+  flex-flow: ajuste de fila;
+  color de fondo: #000;  
+  altura:400px;
+  color:blanco;
+  tamano de fuente: 2rem;
+}
+
+.articulo {
+  color de fondo:#0078A6;
+  ancho:150px;
+  altura:150px;
+}
